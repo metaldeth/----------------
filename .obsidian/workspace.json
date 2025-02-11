@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f5902c512949dce",
+        "id": "0fb0d90047292019",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfadd1191ccbe56",
+            "id": "e15cad33376ef27b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,6 +91,7 @@
           {
             "id": "c9f09d79638d592d",
             "type": "tabs",
+            "dimension": 21.436227224008576,
             "children": [
               {
                 "id": "944b845c28870a0e",
@@ -171,6 +172,7 @@
           {
             "id": "0651187ddc87de4a",
             "type": "tabs",
+            "dimension": 21.436227224008576,
             "children": [
               {
                 "id": "172e6b506d1fb28a",
@@ -183,13 +185,24 @@
                 }
               }
             ]
+          },
+          {
+            "id": "bfcb9fddd4714ebf",
+            "type": "leaf",
+            "dimension": 57.12754555198285,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "direction": "vertical"
       }
     ],
     "direction": "horizontal",
-    "width": 614.5
+    "width": 1259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +211,15 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1755690a68fcd064",
+  "active": "e15cad33376ef27b",
   "lastOpenFiles": [
+    "Записи фронт/браузер/Работа браузера.md",
     "Занятия с Машей/17.02.2025 браузер eventLoop promise.md",
     "Созвон с Андреем.pdf",
-    "Записи фронт/браузер/Работа браузера.md",
     "Pasted image 20250211181122.png",
     "2025-01-30.md",
     "Записи фронт/браузер/event loop.md",
