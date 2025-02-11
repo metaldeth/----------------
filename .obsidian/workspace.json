@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Записи фронт/браузер/Работа браузера.md",
+                "file": "Занятия/0001 браузер eventLoop promise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа браузера"
+              "title": "0001 браузер eventLoop promise"
             }
           }
         ]
@@ -99,7 +99,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Записи фронт/браузер/Работа браузера.md",
+                    "file": "Занятия/0001 браузер eventLoop promise.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Обратные ссылки для Работа браузера"
+                  "title": "Обратные ссылки для 0001 браузер eventLoop promise"
                 }
               },
               {
@@ -118,12 +118,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Записи фронт/браузер/Работа браузера.md",
+                    "file": "Занятия/0001 браузер eventLoop promise.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Исходящие ссылки из Работа браузера"
+                  "title": "Исходящие ссылки из 0001 браузер eventLoop promise"
                 }
               },
               {
@@ -147,13 +147,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Записи фронт/браузер/Работа браузера.md",
+                    "file": "Занятия/0001 браузер eventLoop promise.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Структура Работа браузера"
+                  "title": "Структура 0001 браузер eventLoop promise"
                 }
               },
               {
@@ -215,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e15cad33376ef27b",
+  "active": "e3712057ddfb73d0",
   "lastOpenFiles": [
     "Записи фронт/браузер/Работа браузера.md",
-    "Занятия с Машей/17.02.2025 браузер eventLoop promise.md",
+    "Занятия/0001 браузер eventLoop promise.md",
     "Созвон с Андреем.pdf",
     "Pasted image 20250211181122.png",
     "2025-01-30.md",
@@ -236,7 +236,7 @@
     "Записи фронт/браузер",
     "Записи фронт/js",
     "2024-02-06.md",
-    "Занятия с Машей",
+    "Занятия",
     "Записи фронт"
   ]
 }
